@@ -1,14 +1,14 @@
 ### Brute-Force-Gmail
 <hr color=red width=100%>
-### Gmail-Hack
+#Gmail-Hack
 <hr color=red width=100%>
-### python script for Hack gmail account brute force 
+#python script for Hack gmail account brute force 
 <hr color=red width=100%>
-###  What is brute force attack?
+<p>What is brute force attack?
 In brute force attack,script or program try the each and every combination of password probability 
 to ack victim account.Brute force attack is the only successful method to hack account
 but this process will take long time depend upon the length of password.
-
+</p>
 
 ### Installation 
 
